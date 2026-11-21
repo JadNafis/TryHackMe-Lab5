@@ -46,8 +46,9 @@
    echo -n "lambobytelotushotel@gmail.com" | sha256sum
    
 4. **Decode the Base64 string You Found In The Profile Bio:**
+   
 
-   Command Executed: 'echo "VEhNe1MzY3JlVF9QcjBmaWwzX0g0c19iMzNuX0lkZW50MWZpM2R9" | base64 -d'
+   Command Executed: 'echo | base64 -d'
 
    <img width="767" height="195" alt="Screenshot 2026-11-21 153220" src="https://github.com/user-attachments/assets/834bf3f2-6d82-44bb-b34d-5b6d1c13c487" />
 
