@@ -47,9 +47,11 @@
    
 4. **Decode the Base64 string You Found In The Profile Bio:**
 
+   Command Executed: 'echo "VEhNe1MzY3JlVF9QcjBmaWwzX0g0c19iMzNuX0lkZW50MWZpM2R9" | base64 -d'
+
    <img width="767" height="195" alt="Screenshot 2026-11-21 153220" src="https://github.com/user-attachments/assets/834bf3f2-6d82-44bb-b34d-5b6d1c13c487" />
 
-5. **Copy the Decoded Flag, Paste It Into TryHackMe, And Submit:**
+6. **Copy the Decoded Flag, Paste It Into TryHackMe, And Submit:**
 
    <img width="1070" height="148" alt="Screenshot 2026-11-21 154344" src="https://github.com/user-attachments/assets/9e6c6f13-c25d-4276-adef-213506a787d0" />
 
